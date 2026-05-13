@@ -1,0 +1,7 @@
+motor(f) - d7 
+motor(r) - d8 
+ir sensor - a2 
+voltage sensor - a0
+current sensor - a1
+servo motor - d5
+main motor - d6 
